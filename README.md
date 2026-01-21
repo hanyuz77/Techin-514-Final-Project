@@ -11,7 +11,7 @@ A soil sensor sends moisture estimates over BLE to a stepper-driven gauge that g
 **Physical Features:**
  The system consists of two battery-powered devices: (1) a compact sensor unit with a stake-style enclosure that sits at the soil surface with the moisture probe inserted into the soil, and (2) a desktop analog gauge featuring a rotating needle (driven by stepper motor), RGB LED indicator, and calibration button housed in a circular meter-style enclosure with a custom PCB.
 
-![sketch1](sketch1.png)
+![sketch1](Sketch1.png)
 
 ## 2) Sensor Device
 **Device:** Soil Sensor (in/near the plant pot)
